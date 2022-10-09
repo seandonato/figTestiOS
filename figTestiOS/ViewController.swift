@@ -17,8 +17,8 @@ class ViewController: UIViewController{
 
 		self.view.addSubview(button269)
 
-		self.view.backgroundColor = UIColor(red: 0.7880000472068787, green: 1, blue: 0.3374999761581421,alpha:1) 
-			}
+		self.view.backgroundColor = UIColor(red: 0.3507499694824219, green: 0.3374999761581421, blue: 1,alpha:1) 
+	}
 	
 	func stylize(){
 
