@@ -23,10 +23,10 @@ class ViewController: UIViewController{
 
 		button268.backgroundColor = UIColor(red: 0, green: 0.7441667318344116, blue: 0.7916666865348816,alpha:1) 
 		button268.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([button268.heightAnchor.constraint(equalToConstant:86),button268.widthAnchor.constraint(equalToConstant:284),button268.topAnchor.constraint(equalTo: self.view.topAnchor, constant:481),button268.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:39)])
-		button269.backgroundColor = UIColor(red: 0.44583332538604736, green: 1, blue: 0.8337498903274536,alpha:1) 
+		NSLayoutConstraint.activate([button268.heightAnchor.constraint(equalToConstant:88),button268.widthAnchor.constraint(equalToConstant:284),button268.topAnchor.constraint(equalTo: self.view.topAnchor, constant:471),button268.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:39)])
+		button269.backgroundColor = UIColor(red: 0.7416666746139526, green: 0, blue: 0,alpha:1) 
 		button269.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([button269.heightAnchor.constraint(equalToConstant:80),button269.widthAnchor.constraint(equalToConstant:276),button269.topAnchor.constraint(equalTo: self.view.topAnchor, constant:334),button269.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:54)])
+		NSLayoutConstraint.activate([button269.heightAnchor.constraint(equalToConstant:82),button269.widthAnchor.constraint(equalToConstant:276),button269.topAnchor.constraint(equalTo: self.view.topAnchor, constant:334),button269.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:54)])
 		}
 	
 }
