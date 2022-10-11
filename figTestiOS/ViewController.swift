@@ -30,7 +30,7 @@ class ViewController: UIViewController{
 		button269.backgroundColor = UIColor(red: 0.44583332538604736, green: 1, blue: 0.8337498903274536,alpha:1) 
 		button269.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([button269.heightAnchor.constraint(equalToConstant:80),button269.widthAnchor.constraint(equalToConstant:276),button269.topAnchor.constraint(equalTo: self.view.topAnchor, constant:334),button269.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:54)])
-		button269.layer.cornerRadius = 40
+		button269.layer.cornerRadius = 9
 		}
 	
 }
