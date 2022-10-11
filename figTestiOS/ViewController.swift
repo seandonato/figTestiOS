@@ -4,7 +4,6 @@ import Foundation
 class ViewController: UIViewController{
 	var button268 = UIButton()
 	var button269 = UIButton()
-	var textinput398 = UITextField()
 	override func viewDidLoad(){
 
 		setup()
@@ -17,8 +16,6 @@ class ViewController: UIViewController{
 		self.view.addSubview(button268)
 
 		self.view.addSubview(button269)
-
-		self.view.addSubview(textinput398)
 
 		self.view.backgroundColor = UIColor(red: 0.3507499694824219, green: 0.3374999761581421, blue: 1,alpha:1) 
 	}
@@ -34,10 +31,6 @@ class ViewController: UIViewController{
 		button269.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([button269.heightAnchor.constraint(equalToConstant:80),button269.widthAnchor.constraint(equalToConstant:276),button269.topAnchor.constraint(equalTo: self.view.topAnchor, constant:334),button269.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:54)])
 		button269.layer.cornerRadius = 40
-		textinput398.backgroundColor = UIColor(red: 0.8509804010391235, green: 0.8509804010391235, blue: 0.8509804010391235,alpha:1) 
-		textinput398.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([textinput398.heightAnchor.constraint(equalToConstant:47),textinput398.widthAnchor.constraint(equalToConstant:298),textinput398.topAnchor.constraint(equalTo: self.view.topAnchor, constant:197),textinput398.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:32)])
-		textinput398.layer.cornerRadius = 0
 		}
 	
 }
