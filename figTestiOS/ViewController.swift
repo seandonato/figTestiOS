@@ -44,7 +44,7 @@ class ViewController: UIViewController{
 		textinput4311.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([textinput4311.heightAnchor.constraint(equalToConstant:52),textinput4311.widthAnchor.constraint(equalToConstant:276),textinput4311.topAnchor.constraint(equalTo: self.view.topAnchor, constant:212),textinput4311.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		textinput4311.layer.cornerRadius = 0
-		text463.text = Hello
+		text463.text = " Hello"
 		
 		text463.textColor = UIColor(red: 1, green: 1, blue: 1,alpha:1) 
 		text463.translatesAutoresizingMaskIntoConstraints = false
