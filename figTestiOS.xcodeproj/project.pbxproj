@@ -8,16 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0AA3196B86F9F522FAD6B44C /* Parent2ViewController163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABED83240D421B4442AAD3E /* Parent2ViewController163.swift */; };
-		1AEFA6B39D1E8C5DBD9CBACC /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C635B8C8195E51A7464AEA9 /* InitialViewController162.swift */; };
-		28DDCBA77B1DE692A65E69F0 /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497AD07F4EFA65D9378449BA /* InitialViewController162.swift */; };
-		34DADD01F5EA375CA3D82130 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54634BE7FC98944121789D01 /* secondViewViewController1112.swift */; };
-		3FA96FA062985A4EE8EEDBDB /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = 914F16C39DBE5315F0A27FA8 /* InitialViewController162.swift */; };
-		57A94D61CF76ADD0F9CA31AA /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C4CFD8C0C05EEC8E9DF660 /* InitialViewController162.swift */; };
-		686C8C9C66CD8634029F133A /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019C926A4333A005635B66C4 /* secondViewViewController1112.swift */; };
-		7C90929E74A4FD8DB24BCE07 /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FA43F05EE774A749E3AB18 /* InitialViewController162.swift */; };
-		7D52E4A00BD56B0E54312BF9 /* Parent2ViewController163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80BDC62397534BE6DC2D39BD /* Parent2ViewController163.swift */; };
-		9E3BE00D9F78253097635BA7 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25879620D3CCB7A64E7B840A /* secondViewViewController1112.swift */; };
-		A772F0BF96F71D8601C2F441 /* Parent2ViewController163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018D8A8C65726966A9E9AB83 /* Parent2ViewController163.swift */; };
 		A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2928E0B43F0047231A /* AppDelegate.swift */; };
 		A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */; };
 		A9D56E2E28E0B43F0047231A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2D28E0B43F0047231A /* ViewController.swift */; };
@@ -27,12 +17,7 @@
 		A9D56E4128E0B4410047231A /* figTestiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4028E0B4410047231A /* figTestiOSTests.swift */; };
 		A9D56E4B28E0B4410047231A /* figTestiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */; };
 		A9D56E4D28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */; };
-		B309B5A60A128EEC635BC751 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19CAC5FF5201D745A7D3BFA /* secondViewViewController1112.swift */; };
-		C88B10E680AB18CD74CD1559 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4497D1212F2F5A4FF8C7A711 /* secondViewViewController1112.swift */; };
-		CB8365E226A3513CCC2C494F /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8217D193F09FBBA4DD0DDA99 /* secondViewViewController1112.swift */; };
-		D577045982458AE195412C01 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = F975CD07ADEC8FEAABA013DC /* secondViewViewController1112.swift */; };
 		FB1E41FEE53C1D0C930EDCED /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06D0042D1270DC479E76FD7 /* InitialViewController162.swift */; };
-		FB6B3B9860728F10191D2946 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39B529E81EB46FCA0D88AE7 /* secondViewViewController1112.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,20 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		018D8A8C65726966A9E9AB83 /* Parent2ViewController163.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Parent2ViewController163.swift; sourceTree = "<group>"; };
-		019C926A4333A005635B66C4 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
-		07C4CFD8C0C05EEC8E9DF660 /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InitialViewController162.swift; path = ./f/figTestiOS/InitialViewController162.swift; sourceTree = "<group>"; };
-		25879620D3CCB7A64E7B840A /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
-		4497D1212F2F5A4FF8C7A711 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
-		497AD07F4EFA65D9378449BA /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InitialViewController162.swift; path = ./f/figTestiOS/InitialViewController162.swift; sourceTree = "<group>"; };
-		53FA43F05EE774A749E3AB18 /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InitialViewController162.swift; path = ./f/figTestiOS/InitialViewController162.swift; sourceTree = "<group>"; };
-		54634BE7FC98944121789D01 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
-		80BDC62397534BE6DC2D39BD /* Parent2ViewController163.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Parent2ViewController163.swift; path = ./f/figTestiOS/Parent2ViewController163.swift; sourceTree = "<group>"; };
-		8217D193F09FBBA4DD0DDA99 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
-		8C635B8C8195E51A7464AEA9 /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InitialViewController162.swift; path = ./f/figTestiOS/InitialViewController162.swift; sourceTree = "<group>"; };
-		914F16C39DBE5315F0A27FA8 /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InitialViewController162.swift; path = ./f/figTestiOS/InitialViewController162.swift; sourceTree = "<group>"; };
 		9ABED83240D421B4442AAD3E /* Parent2ViewController163.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Parent2ViewController163.swift; sourceTree = "<group>"; };
-		A39B529E81EB46FCA0D88AE7 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
 		A9D56E2628E0B43F0047231A /* figTestiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = figTestiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D56E2928E0B43F0047231A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,8 +53,6 @@
 		A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITests.swift; sourceTree = "<group>"; };
 		A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B06D0042D1270DC479E76FD7 /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = InitialViewController162.swift; sourceTree = "<group>"; };
-		C19CAC5FF5201D745A7D3BFA /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
-		F975CD07ADEC8FEAABA013DC /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = ./f/figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,20 +87,6 @@
 				A9D56E3F28E0B4410047231A /* figTestiOSTests */,
 				A9D56E4928E0B4410047231A /* figTestiOSUITests */,
 				A9D56E2728E0B43F0047231A /* Products */,
-				497AD07F4EFA65D9378449BA /* InitialViewController162.swift */,
-				07C4CFD8C0C05EEC8E9DF660 /* InitialViewController162.swift */,
-				80BDC62397534BE6DC2D39BD /* Parent2ViewController163.swift */,
-				F975CD07ADEC8FEAABA013DC /* secondViewViewController1112.swift */,
-				C19CAC5FF5201D745A7D3BFA /* secondViewViewController1112.swift */,
-				8C635B8C8195E51A7464AEA9 /* InitialViewController162.swift */,
-				8217D193F09FBBA4DD0DDA99 /* secondViewViewController1112.swift */,
-				53FA43F05EE774A749E3AB18 /* InitialViewController162.swift */,
-				A39B529E81EB46FCA0D88AE7 /* secondViewViewController1112.swift */,
-				019C926A4333A005635B66C4 /* secondViewViewController1112.swift */,
-				25879620D3CCB7A64E7B840A /* secondViewViewController1112.swift */,
-				54634BE7FC98944121789D01 /* secondViewViewController1112.swift */,
-				4497D1212F2F5A4FF8C7A711 /* secondViewViewController1112.swift */,
-				914F16C39DBE5315F0A27FA8 /* InitialViewController162.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -156,7 +112,6 @@
 				A9D56E3728E0B4410047231A /* Info.plist */,
 				B06D0042D1270DC479E76FD7 /* InitialViewController162.swift */,
 				9ABED83240D421B4442AAD3E /* Parent2ViewController163.swift */,
-				018D8A8C65726966A9E9AB83 /* Parent2ViewController163.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -314,21 +269,6 @@
 				A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */,
 				FB1E41FEE53C1D0C930EDCED /* InitialViewController162.swift in Sources */,
 				0AA3196B86F9F522FAD6B44C /* Parent2ViewController163.swift in Sources */,
-				A772F0BF96F71D8601C2F441 /* Parent2ViewController163.swift in Sources */,
-				28DDCBA77B1DE692A65E69F0 /* InitialViewController162.swift in Sources */,
-				57A94D61CF76ADD0F9CA31AA /* InitialViewController162.swift in Sources */,
-				7D52E4A00BD56B0E54312BF9 /* Parent2ViewController163.swift in Sources */,
-				D577045982458AE195412C01 /* secondViewViewController1112.swift in Sources */,
-				B309B5A60A128EEC635BC751 /* secondViewViewController1112.swift in Sources */,
-				1AEFA6B39D1E8C5DBD9CBACC /* InitialViewController162.swift in Sources */,
-				CB8365E226A3513CCC2C494F /* secondViewViewController1112.swift in Sources */,
-				7C90929E74A4FD8DB24BCE07 /* InitialViewController162.swift in Sources */,
-				FB6B3B9860728F10191D2946 /* secondViewViewController1112.swift in Sources */,
-				686C8C9C66CD8634029F133A /* secondViewViewController1112.swift in Sources */,
-				9E3BE00D9F78253097635BA7 /* secondViewViewController1112.swift in Sources */,
-				34DADD01F5EA375CA3D82130 /* secondViewViewController1112.swift in Sources */,
-				C88B10E680AB18CD74CD1559 /* secondViewViewController1112.swift in Sources */,
-				3FA96FA062985A4EE8EEDBDB /* InitialViewController162.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
