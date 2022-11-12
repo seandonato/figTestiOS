@@ -24,7 +24,7 @@ class InitialViewController162 : UIViewController{
 		self.view.addSubview(text463)
 
 
-		button268.addTarget(self,#selector(NavToParent2ViewController163), for: .touchUpInside)
+		button268.addTarget(self,action: #selector(NavToParent2ViewController163), for: .touchUpInside)
 
 		self.view.backgroundColor = UIColor(red: 0.23333334922790527, green: 0.800000011920929, blue: 0.5619999766349792,alpha:1) 
 	}
