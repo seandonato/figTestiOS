@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8BE98313A38265B54A880413 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64A3D03330DB420E495B59 /* secondViewViewController1112.swift */; };
 		A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2928E0B43F0047231A /* AppDelegate.swift */; };
 		A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */; };
 		A9D56E2E28E0B43F0047231A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2D28E0B43F0047231A /* ViewController.swift */; };
@@ -51,6 +52,7 @@
 		A9D56E4628E0B4410047231A /* figTestiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = figTestiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITests.swift; sourceTree = "<group>"; };
 		A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EE64A3D03330DB420E495B59 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = secondViewViewController1112.swift; sourceTree = "<group>"; };
 		FE551504F60FD3BFBE13699D /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = InitialViewController162.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -112,6 +114,7 @@
 				FE551504F60FD3BFBE13699D /* InitialViewController162.swift */,
 				64767E5BC9ECC8095FDB1B85 /* fourtViewController1256.swift */,
 				6321346A14BBAB855086F3C6 /* fourtViewController1256.swift */,
+				EE64A3D03330DB420E495B59 /* secondViewViewController1112.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				A9D56E2E28E0B43F0047231A /* ViewController.swift in Sources */,
 				A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */,
 				A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */,
+				8BE98313A38265B54A880413 /* secondViewViewController1112.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
