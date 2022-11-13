@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		0AA3196B86F9F522FAD6B44C /* Parent2ViewController163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABED83240D421B4442AAD3E /* Parent2ViewController163.swift */; };
+		223A3901525C18D3C461E714 /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B91EEC5DF1E835B2F60FB /* thirdvcViewController1215.swift */; };
+		46F409BED1F52991017E148B /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030BA5EA6E6CFCF6707F216B /* thirdvcViewController1215.swift */; };
+		51C92C01237DEE46BF77AD8E /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB56E79F35691F87D7F3AE7 /* thirdvcViewController1215.swift */; };
+		88FA626BA295C46C04846158 /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360AE5092E6054CD7DC78F35 /* thirdvcViewController1215.swift */; };
+		9ABBEC793882D0818F4BFFD0 /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA28519A9C4AEC7FFFE0C448 /* thirdvcViewController1215.swift */; };
+		A772F0BF96F71D8601C2F441 /* Parent2ViewController163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018D8A8C65726966A9E9AB83 /* Parent2ViewController163.swift */; };
 		A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2928E0B43F0047231A /* AppDelegate.swift */; };
 		A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */; };
 		A9D56E2E28E0B43F0047231A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2D28E0B43F0047231A /* ViewController.swift */; };
@@ -17,6 +23,8 @@
 		A9D56E4128E0B4410047231A /* figTestiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4028E0B4410047231A /* figTestiOSTests.swift */; };
 		A9D56E4B28E0B4410047231A /* figTestiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */; };
 		A9D56E4D28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */; };
+		B068CABE5E8CA75799904193 /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE0A25468D1FE39759EA8FE /* thirdvcViewController1215.swift */; };
+		C0A0C589769F8307B6393092 /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F0087277F53E42F8D9D787 /* secondViewViewController1112.swift */; };
 		FB1E41FEE53C1D0C930EDCED /* InitialViewController162.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06D0042D1270DC479E76FD7 /* InitialViewController162.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +46,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		018D8A8C65726966A9E9AB83 /* Parent2ViewController163.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Parent2ViewController163.swift; sourceTree = "<group>"; };
+		030BA5EA6E6CFCF6707F216B /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
+		2B3B91EEC5DF1E835B2F60FB /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
+		360AE5092E6054CD7DC78F35 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
+		50F0087277F53E42F8D9D787 /* secondViewViewController1112.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = secondViewViewController1112.swift; path = figTestiOS/secondViewViewController1112.swift; sourceTree = "<group>"; };
+		7DB56E79F35691F87D7F3AE7 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = thirdvcViewController1215.swift; path = figTestiOS/figTestiOS/thirdvcViewController1215.swift; sourceTree = "<group>"; };
 		9ABED83240D421B4442AAD3E /* Parent2ViewController163.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Parent2ViewController163.swift; sourceTree = "<group>"; };
 		A9D56E2628E0B43F0047231A /* figTestiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = figTestiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D56E2928E0B43F0047231A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -53,6 +67,8 @@
 		A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITests.swift; sourceTree = "<group>"; };
 		A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B06D0042D1270DC479E76FD7 /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = InitialViewController162.swift; sourceTree = "<group>"; };
+		EA28519A9C4AEC7FFFE0C448 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
+		FBE0A25468D1FE39759EA8FE /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +103,13 @@
 				A9D56E3F28E0B4410047231A /* figTestiOSTests */,
 				A9D56E4928E0B4410047231A /* figTestiOSUITests */,
 				A9D56E2728E0B43F0047231A /* Products */,
+				360AE5092E6054CD7DC78F35 /* thirdvcViewController1215.swift */,
+				EA28519A9C4AEC7FFFE0C448 /* thirdvcViewController1215.swift */,
+				50F0087277F53E42F8D9D787 /* secondViewViewController1112.swift */,
+				7DB56E79F35691F87D7F3AE7 /* thirdvcViewController1215.swift */,
+				FBE0A25468D1FE39759EA8FE /* thirdvcViewController1215.swift */,
+				2B3B91EEC5DF1E835B2F60FB /* thirdvcViewController1215.swift */,
+				030BA5EA6E6CFCF6707F216B /* thirdvcViewController1215.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -112,6 +135,7 @@
 				A9D56E3728E0B4410047231A /* Info.plist */,
 				B06D0042D1270DC479E76FD7 /* InitialViewController162.swift */,
 				9ABED83240D421B4442AAD3E /* Parent2ViewController163.swift */,
+				018D8A8C65726966A9E9AB83 /* Parent2ViewController163.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -269,6 +293,14 @@
 				A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */,
 				FB1E41FEE53C1D0C930EDCED /* InitialViewController162.swift in Sources */,
 				0AA3196B86F9F522FAD6B44C /* Parent2ViewController163.swift in Sources */,
+				A772F0BF96F71D8601C2F441 /* Parent2ViewController163.swift in Sources */,
+				88FA626BA295C46C04846158 /* thirdvcViewController1215.swift in Sources */,
+				9ABBEC793882D0818F4BFFD0 /* thirdvcViewController1215.swift in Sources */,
+				C0A0C589769F8307B6393092 /* secondViewViewController1112.swift in Sources */,
+				51C92C01237DEE46BF77AD8E /* thirdvcViewController1215.swift in Sources */,
+				B068CABE5E8CA75799904193 /* thirdvcViewController1215.swift in Sources */,
+				223A3901525C18D3C461E714 /* thirdvcViewController1215.swift in Sources */,
+				46F409BED1F52991017E148B /* thirdvcViewController1215.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
