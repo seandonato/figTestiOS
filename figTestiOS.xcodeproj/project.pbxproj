@@ -23,6 +23,7 @@
 		A9D56E4128E0B4410047231A /* figTestiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4028E0B4410047231A /* figTestiOSTests.swift */; };
 		A9D56E4B28E0B4410047231A /* figTestiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */; };
 		A9D56E4D28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */; };
+		BFDB782AFA1EF67379455AFF /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544CE5170E51153373491674 /* thirdvcViewController1215.swift */; };
 		E4B601B2FE4245AB53D9322B /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748E639F322F72E8CB537EF2 /* thirdvcViewController1215.swift */; };
 		EAAB656D6FAE17AD0590594F /* secondViewViewController1112.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1250D40FC781E62992898205 /* secondViewViewController1112.swift */; };
 		F737E7258C893DF930E6BD9C /* thirdvcViewController1215.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393019381827D99E2FAB236B /* thirdvcViewController1215.swift */; };
@@ -52,6 +53,7 @@
 		393019381827D99E2FAB236B /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
 		4099342329627BCAE6039362 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
 		4A461677F13D2F0743E165CF /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = InitialViewController162.swift; sourceTree = "<group>"; };
+		544CE5170E51153373491674 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
 		748E639F322F72E8CB537EF2 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
 		8560B6E34819ED19E76D0FA9 /* thirdvcViewController1215.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = thirdvcViewController1215.swift; sourceTree = "<group>"; };
 		A9D56E2628E0B43F0047231A /* figTestiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = figTestiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -139,6 +141,7 @@
 				1250D40FC781E62992898205 /* secondViewViewController1112.swift */,
 				4A461677F13D2F0743E165CF /* InitialViewController162.swift */,
 				393019381827D99E2FAB236B /* thirdvcViewController1215.swift */,
+				544CE5170E51153373491674 /* thirdvcViewController1215.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				EAAB656D6FAE17AD0590594F /* secondViewViewController1112.swift in Sources */,
 				2D51DA1C59111347EFDA8CB4 /* InitialViewController162.swift in Sources */,
 				F737E7258C893DF930E6BD9C /* thirdvcViewController1215.swift in Sources */,
+				BFDB782AFA1EF67379455AFF /* thirdvcViewController1215.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
