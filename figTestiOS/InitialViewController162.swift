@@ -24,7 +24,7 @@ class InitialViewController162 : UIViewController{
 		self.view.addSubview(text463)
 
 
-		button269.addTarget(self,action: #selector(NavTosecondViewViewController1112), for: .touchUpInside)
+		button269.addTarget(self,action: #selector(NavToview2ViewController1343), for: .touchUpInside)
 
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
 	}
@@ -42,10 +42,10 @@ class InitialViewController162 : UIViewController{
 		textinput4311.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([textinput4311.heightAnchor.constraint(equalToConstant:52),textinput4311.widthAnchor.constraint(equalToConstant:276),textinput4311.topAnchor.constraint(equalTo: self.view.topAnchor, constant:212),textinput4311.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		textinput4311.layer.cornerRadius = 0
-		buttonb1062.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
+		buttonb1062.backgroundColor = UIColor(red: 0.4375, green: 0.47708338499069214, blue: 0.8333333134651184,alpha:1) 
 		buttonb1062.setTitle("Test Button",for: .normal)
 		buttonb1062.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:63),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:480),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
+		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:80),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:463),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		buttonb1062.layer.cornerRadius = 40
 		text463.text = " Hello Welcome to TapTa!"
 		
@@ -53,8 +53,8 @@ class InitialViewController162 : UIViewController{
 		text463.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([text463.topAnchor.constraint(equalTo: self.view.topAnchor, constant:143),text463.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:129)])
 		}
-	@objc func NavTosecondViewViewController1112(){
-		var vc = secondViewViewController1112()
+	@objc func NavToview2ViewController1343(){
+		var vc = view2ViewController1343()
 		self.navigationController?.pushViewController(vc, animated:true)
 	}
 	
