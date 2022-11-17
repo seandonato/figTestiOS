@@ -19,11 +19,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         guard let _ = (scene as? UIWindowScene) else { return }
         
-
+        let nav = UINavigationController()
 
         let iViewController = InitialViewController162()
-
-        window?.rootViewController = iViewController
+        nav.pushViewController(iViewController, animated: true)
+        window?.rootViewController = nav
         window?.makeKeyAndVisible()
         guard let _ = (scene as? UIWindowScene) else { return }
     }
