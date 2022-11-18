@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3A7DEB080E605A71396E8E88 /* screen2ViewController13515.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6E673DB41D082351B4A29A /* screen2ViewController13515.swift */; };
+		7A0A9B4764AD10FDB0F78502 /* screen23ViewController13515.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76086C20F8C900710BA52A85 /* screen23ViewController13515.swift */; };
 		A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2928E0B43F0047231A /* AppDelegate.swift */; };
 		A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */; };
 		A9D56E2E28E0B43F0047231A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2D28E0B43F0047231A /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		262F4BA7821F2E5902DA44AB /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = InitialViewController162.swift; sourceTree = "<group>"; };
 		2A6E673DB41D082351B4A29A /* screen2ViewController13515.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = screen2ViewController13515.swift; sourceTree = "<group>"; };
+		76086C20F8C900710BA52A85 /* screen23ViewController13515.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = screen23ViewController13515.swift; sourceTree = "<group>"; };
 		A9D56E2628E0B43F0047231A /* figTestiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = figTestiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D56E2928E0B43F0047231A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				A9D56E3728E0B4410047231A /* Info.plist */,
 				262F4BA7821F2E5902DA44AB /* InitialViewController162.swift */,
 				2A6E673DB41D082351B4A29A /* screen2ViewController13515.swift */,
+				76086C20F8C900710BA52A85 /* screen23ViewController13515.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */,
 				FDD677D7CABD4C452A14B80A /* InitialViewController162.swift in Sources */,
 				3A7DEB080E605A71396E8E88 /* screen2ViewController13515.swift in Sources */,
+				7A0A9B4764AD10FDB0F78502 /* screen23ViewController13515.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

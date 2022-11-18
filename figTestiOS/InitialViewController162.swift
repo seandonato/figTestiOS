@@ -57,7 +57,7 @@ class InitialViewController162 : UIViewController{
 		NSLayoutConstraint.activate([text463.topAnchor.constraint(equalTo: self.view.topAnchor, constant:143),text463.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:129)])
 		}
 	@objc func NavToscreen23ViewController13515(){
-		var vc = screen33ViewController1358()
+		var vc = screen23ViewController13515()
 		self.navigationController?.pushViewController(vc, animated:true)
 	}
 	@objc func NavToscreen33ViewController1358(){
