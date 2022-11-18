@@ -26,6 +26,9 @@ class InitialViewController162 : UIViewController{
 
 		button269.addTarget(self,action: #selector(NavToscreen2ViewController13520), for: .touchUpInside)
 
+
+		buttonb1062.addTarget(self,action: #selector(NavToscreen3ViewController13523), for: .touchUpInside)
+
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
 	}
 	
@@ -55,6 +58,10 @@ class InitialViewController162 : UIViewController{
 		}
 	@objc func NavToscreen2ViewController13520(){
 		var vc = screen2ViewController13520()
+		self.navigationController?.pushViewController(vc, animated:true)
+	}
+	@objc func NavToscreen3ViewController13523(){
+		var vc = screen3ViewController13523()
 		self.navigationController?.pushViewController(vc, animated:true)
 	}
 	
