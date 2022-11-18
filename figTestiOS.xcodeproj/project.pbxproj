@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8560CF26A77DB8BC915F7FA6 /* screen2ViewController13520.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E1BCE0C9665CCE4105292C /* screen2ViewController13520.swift */; };
 		A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2928E0B43F0047231A /* AppDelegate.swift */; };
 		A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */; };
 		A9D56E2E28E0B43F0047231A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2D28E0B43F0047231A /* ViewController.swift */; };
@@ -51,6 +52,7 @@
 		A9D56E4628E0B4410047231A /* figTestiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = figTestiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D56E4A28E0B4410047231A /* figTestiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITests.swift; sourceTree = "<group>"; };
 		A9D56E4C28E0B4410047231A /* figTestiOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = figTestiOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C0E1BCE0C9665CCE4105292C /* screen2ViewController13520.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = screen2ViewController13520.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				A9D56E3428E0B4410047231A /* LaunchScreen.storyboard */,
 				A9D56E3728E0B4410047231A /* Info.plist */,
 				262F4BA7821F2E5902DA44AB /* InitialViewController162.swift */,
+				C0E1BCE0C9665CCE4105292C /* screen2ViewController13520.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -209,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A9D56E2128E0B43F0047231A /* Build configuration list for PBXProject "figTestiOS" */;
+			buildConfigurationList = A9D56E2128E0B43F0047231A /* Build configuration list for PBXProject "FigTestiOS" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -265,6 +268,7 @@
 				A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */,
 				A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */,
 				FDD677D7CABD4C452A14B80A /* InitialViewController162.swift in Sources */,
+				8560CF26A77DB8BC915F7FA6 /* screen2ViewController13520.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -569,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A9D56E2128E0B43F0047231A /* Build configuration list for PBXProject "figTestiOS" */ = {
+		A9D56E2128E0B43F0047231A /* Build configuration list for PBXProject "FigTestiOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A9D56E4E28E0B4410047231A /* Debug */,
