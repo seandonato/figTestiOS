@@ -23,12 +23,6 @@ class InitialViewController162 : UIViewController{
 
 		self.view.addSubview(text463)
 
-
-		button269.addTarget(self,action: #selector(NavToscreen2ViewController13520), for: .touchUpInside)
-
-
-		buttonb1062.addTarget(self,action: #selector(NavToscreen3ViewController13523), for: .touchUpInside)
-
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
 	}
 	
@@ -56,13 +50,5 @@ class InitialViewController162 : UIViewController{
 		text463.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([text463.topAnchor.constraint(equalTo: self.view.topAnchor, constant:143),text463.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:129)])
 		}
-	@objc func NavToscreen2ViewController13520(){
-		var vc = screen2ViewController13520()
-		self.navigationController?.pushViewController(vc, animated:true)
-	}
-	@objc func NavToscreen3ViewController13523(){
-		var vc = screen3ViewController13523()
-		self.navigationController?.pushViewController(vc, animated:true)
-	}
 	
 }

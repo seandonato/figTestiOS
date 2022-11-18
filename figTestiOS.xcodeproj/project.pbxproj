@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3373625F2D75CE795917B302 /* screen3ViewController13523.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2986B982479E6A6280227D32 /* screen3ViewController13523.swift */; };
 		8560CF26A77DB8BC915F7FA6 /* screen2ViewController13520.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E1BCE0C9665CCE4105292C /* screen2ViewController13520.swift */; };
 		A9D56E2A28E0B43F0047231A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2928E0B43F0047231A /* AppDelegate.swift */; };
 		A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		262F4BA7821F2E5902DA44AB /* InitialViewController162.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = InitialViewController162.swift; sourceTree = "<group>"; };
+		2986B982479E6A6280227D32 /* screen3ViewController13523.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = screen3ViewController13523.swift; sourceTree = "<group>"; };
 		A9D56E2628E0B43F0047231A /* figTestiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = figTestiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D56E2928E0B43F0047231A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9D56E2B28E0B43F0047231A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				A9D56E3728E0B4410047231A /* Info.plist */,
 				262F4BA7821F2E5902DA44AB /* InitialViewController162.swift */,
 				C0E1BCE0C9665CCE4105292C /* screen2ViewController13520.swift */,
+				2986B982479E6A6280227D32 /* screen3ViewController13523.swift */,
 			);
 			path = figTestiOS;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				A9D56E2C28E0B43F0047231A /* SceneDelegate.swift in Sources */,
 				FDD677D7CABD4C452A14B80A /* InitialViewController162.swift in Sources */,
 				8560CF26A77DB8BC915F7FA6 /* screen2ViewController13520.swift in Sources */,
+				3373625F2D75CE795917B302 /* screen3ViewController13523.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
