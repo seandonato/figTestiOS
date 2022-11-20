@@ -44,6 +44,13 @@ class InitialViewController162 : UIViewController{
 		buttonb1062.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:80),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:463),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		buttonb1062.layer.cornerRadius = 40
+		text1414.text = " HELLO WELCOME TO TAPTA"
+		
+		text1414.font = .font = UIFont.systemFont(ofSize:
+		
+		text1414.textColor = UIColor(red: 1, green: 1, blue: 1,alpha:1) 
+		text1414.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([text1414.topAnchor.constraint(equalTo: self.view.topAnchor, constant:71),text1414.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:74)])
 		}
 	
 }
