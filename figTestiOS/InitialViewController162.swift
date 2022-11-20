@@ -45,6 +45,8 @@ class InitialViewController162 : UIViewController{
 		buttonb1062.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:80),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:463),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		buttonb1062.layer.cornerRadius = 40
+		verybasicpuzzleicon1383.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([verybasicpuzzleicon1383.heightAnchor.constraint(equalToConstant:150),verybasicpuzzleicon1383.widthAnchor.constraint(equalToConstant:133),verybasicpuzzleicon1383.topAnchor.constraint(equalTo: self.view.topAnchor, constant:25),verybasicpuzzleicon1383.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:60)])
 		}
 	
 }
