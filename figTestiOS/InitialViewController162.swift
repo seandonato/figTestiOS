@@ -28,6 +28,8 @@ class InitialViewController162 : UIViewController{
 		self.view.addSubview(text1414)
 
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
+	
+	verybasicpuzzleicon1415.image = verybasicpuzzleicon1415img
 	}
 	
 	func stylize(){
