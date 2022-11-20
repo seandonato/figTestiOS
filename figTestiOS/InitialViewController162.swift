@@ -6,7 +6,7 @@ class InitialViewController162 : UIViewController{
 	var textinput4311 = UITextField()
 	var buttonb1062 = UIButton()
 	var verybasicpuzzleicon1383img = UIImage(named:"Very-Basic-Puzzle-icon")
-	var verybasicpuzzleicon1383 = UIImageView(image:verybasicpuzzleicon1383img)
+	var verybasicpuzzleicon1383 = UIImageView()
 	override func viewDidLoad(){
 
 		setup()
@@ -25,6 +25,8 @@ class InitialViewController162 : UIViewController{
 		self.view.addSubview(verybasicpuzzleicon1383)
 
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
+	
+	verybasicpuzzleicon1383.image = verybasicpuzzleicon1383img
 	}
 	
 	func stylize(){
