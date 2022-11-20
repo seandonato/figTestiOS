@@ -5,8 +5,9 @@ class InitialViewController162 : UIViewController{
 	var button269 = UIButton()
 	var textinput4311 = UITextField()
 	var buttonb1062 = UIButton()
-	var verybasicpuzzleicon1383img = UIImage(named:"Very-Basic-Puzzle-icon")
-	var verybasicpuzzleicon1383 = UIImageView()
+	var verybasicpuzzleicon1415img = UIImage(named:"Very-Basic-Puzzle-icon")
+	var verybasicpuzzleicon1415 = UIImageView()
+	var text1414 = UILabel()
 	override func viewDidLoad(){
 
 		setup()
@@ -22,11 +23,11 @@ class InitialViewController162 : UIViewController{
 
 		self.view.addSubview(buttonb1062)
 
-		self.view.addSubview(verybasicpuzzleicon1383)
+		self.view.addSubview(verybasicpuzzleicon1415)
+
+		self.view.addSubview(text1414)
 
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
-	
-	verybasicpuzzleicon1383.image = verybasicpuzzleicon1383img
 	}
 	
 	func stylize(){
@@ -47,8 +48,8 @@ class InitialViewController162 : UIViewController{
 		buttonb1062.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:80),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:463),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		buttonb1062.layer.cornerRadius = 40
-		verybasicpuzzleicon1383.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([verybasicpuzzleicon1383.heightAnchor.constraint(equalToConstant:150),verybasicpuzzleicon1383.widthAnchor.constraint(equalToConstant:133),verybasicpuzzleicon1383.topAnchor.constraint(equalTo: self.view.topAnchor, constant:25),verybasicpuzzleicon1383.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:60)])
+		verybasicpuzzleicon1415.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([verybasicpuzzleicon1415.heightAnchor.constraint(equalToConstant:324),verybasicpuzzleicon1415.widthAnchor.constraint(equalToConstant:283),verybasicpuzzleicon1415.topAnchor.constraint(equalTo: self.view.topAnchor, constant:30),verybasicpuzzleicon1415.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:19)])
 		}
 	
 }
