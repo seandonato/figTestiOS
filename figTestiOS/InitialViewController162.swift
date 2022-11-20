@@ -46,7 +46,7 @@ class InitialViewController162 : UIViewController{
 		buttonb1062.layer.cornerRadius = 40
 		text1414.text = " HELLO WELCOME TO TAPTA"
 		
-		text1414.font = .font = UIFont.systemFont(ofSize:
+		text1414.font = .font = UIFont.systemFont(ofSize:32)
 		
 		text1414.textColor = UIColor(red: 1, green: 1, blue: 1,alpha:1) 
 		text1414.translatesAutoresizingMaskIntoConstraints = false
