@@ -5,7 +5,8 @@ class InitialViewController162 : UIViewController{
 	var button269 = UIButton()
 	var textinput4311 = UITextField()
 	var buttonb1062 = UIButton()
-	var text463 = UILabel()
+	var very-basic-puzzle-icon 11383img = UIImage(named'Very-Basic-Puzzle-icon 1')
+	var very-basic-puzzle-icon 11383 = UIImageView(image:very-basic-puzzle-icon 11383img)
 	override func viewDidLoad(){
 
 		setup()
@@ -21,13 +22,7 @@ class InitialViewController162 : UIViewController{
 
 		self.view.addSubview(buttonb1062)
 
-		self.view.addSubview(text463)
-
-
-		button269.addTarget(self,action: #selector(NavToscreen2ViewController13526), for: .touchUpInside)
-
-
-		buttonb1062.addTarget(self,action: #selector(NavToscreen3ViewController13532), for: .touchUpInside)
+		self.view.addSubview(very-basic-puzzle-icon 11383)
 
 		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
 	}
@@ -50,19 +45,6 @@ class InitialViewController162 : UIViewController{
 		buttonb1062.translatesAutoresizingMaskIntoConstraints = false
 		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:80),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:463),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		buttonb1062.layer.cornerRadius = 40
-		text463.text = " Hello Welcome to TapTa!"
-		
-		text463.textColor = UIColor(red: 1, green: 1, blue: 1,alpha:1) 
-		text463.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([text463.topAnchor.constraint(equalTo: self.view.topAnchor, constant:143),text463.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:129)])
 		}
-	@objc func NavToscreen2ViewController13526(){
-		var vc = screen2ViewController13526()
-		self.navigationController?.pushViewController(vc, animated:true)
-	}
-	@objc func NavToscreen3ViewController13532(){
-		var vc = screen3ViewController13532()
-		self.navigationController?.pushViewController(vc, animated:true)
-	}
 	
 }
