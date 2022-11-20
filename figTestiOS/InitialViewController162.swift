@@ -5,7 +5,7 @@ class InitialViewController162 : UIViewController{
 	var button269 = UIButton()
 	var textinput4311 = UITextField()
 	var buttonb1062 = UIButton()
-	var verybasicpuzzleicon1383img = UIImage(named"Very-Basic-Puzzle-icon")
+	var verybasicpuzzleicon1383img = UIImage(named:"Very-Basic-Puzzle-icon")
 	var verybasicpuzzleicon1383 = UIImageView(image:verybasicpuzzleicon1383img)
 	override func viewDidLoad(){
 
