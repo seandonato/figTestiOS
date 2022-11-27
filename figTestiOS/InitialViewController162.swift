@@ -2,10 +2,11 @@ import UIKit
 import Foundation
 
 class InitialViewController162 : UIViewController{
-	var button269 = UIButton()
-	var textinput4311 = UITextField()
-	var buttonb1062 = UIButton()
-	var text463 = UILabel()
+	var loginimage1453img = UIImage(named:"login-image")
+	var loginimage1453 = UIImageView()
+	var button1457 = UIButton()
+	var text1414 = UILabel()
+	var text1455 = UILabel()
 	override func viewDidLoad(){
 
 		setup()
@@ -15,53 +16,51 @@ class InitialViewController162 : UIViewController{
 	func setup(){
 
 
-		self.view.addSubview(button269)
+		self.view.addSubview(loginimage1453)
 
-		self.view.addSubview(textinput4311)
+		self.view.addSubview(button1457)
 
-		self.view.addSubview(buttonb1062)
+		self.view.addSubview(text1414)
 
-		self.view.addSubview(text463)
-
-
-		button269.addTarget(self,action: #selector(NavToscreen2ViewController13526), for: .touchUpInside)
+		self.view.addSubview(text1455)
 
 
-		buttonb1062.addTarget(self,action: #selector(NavToscreen3ViewController13532), for: .touchUpInside)
+		button1457.addTarget(self,action: #selector(NavToscreen2ViewController14510), for: .touchUpInside)
 
-		self.view.backgroundColor = UIColor(red: 0, green: 0.10000014305114746, blue: 1,alpha:1) 
+		self.view.backgroundColor = UIColor(red: 0.9137254953384399, green: 0.6078431606292725, blue: 0.6039215922355652,alpha:1) 
+	
+	loginimage1453.image = loginimage1453img
 	}
 	
 	func stylize(){
 
 
-		button269.backgroundColor = UIColor(red: 0.44583332538604736, green: 1, blue: 0.8337498903274536,alpha:1) 
-		button269.setTitle("Button A",for: .normal)
-		button269.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([button269.heightAnchor.constraint(equalToConstant:80),button269.widthAnchor.constraint(equalToConstant:276),button269.topAnchor.constraint(equalTo: self.view.topAnchor, constant:334),button269.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
-		button269.layer.cornerRadius = 40
-		textinput4311.backgroundColor = UIColor(red: 0.8509804010391235, green: 0.8509804010391235, blue: 0.8509804010391235,alpha:1) 
+		loginimage1453.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([loginimage1453.heightAnchor.constraint(equalToConstant:328),loginimage1453.widthAnchor.constraint(equalToConstant:304),loginimage1453.topAnchor.constraint(equalTo: self.view.topAnchor, constant:165),loginimage1453.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:32)])
+		button1457.backgroundColor = UIColor(red: 0.609416663646698, green: 1, blue: 0.5458333492279053,alpha:1) 
+		button1457.setTitle("sign up",for: .normal)
+		button1457.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([button1457.heightAnchor.constraint(equalToConstant:58),button1457.widthAnchor.constraint(equalToConstant:280),button1457.topAnchor.constraint(equalTo: self.view.topAnchor, constant:637),button1457.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:56)])
+		button1457.layer.cornerRadius = 29
+		text1414.text = " Tapta"
 		
-		textinput4311.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([textinput4311.heightAnchor.constraint(equalToConstant:52),textinput4311.widthAnchor.constraint(equalToConstant:276),textinput4311.topAnchor.constraint(equalTo: self.view.topAnchor, constant:212),textinput4311.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
-		textinput4311.layer.cornerRadius = 0
-		buttonb1062.backgroundColor = UIColor(red: 0.4375, green: 0.47708338499069214, blue: 0.8333333134651184,alpha:1) 
-		buttonb1062.setTitle("Test Button",for: .normal)
-		buttonb1062.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([buttonb1062.heightAnchor.constraint(equalToConstant:80),buttonb1062.widthAnchor.constraint(equalToConstant:276),buttonb1062.topAnchor.constraint(equalTo: self.view.topAnchor, constant:463),buttonb1062.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
-		buttonb1062.layer.cornerRadius = 40
-		text463.text = " Hello Welcome to TapTa!"
+		text1414.font = UIFont.systemFont(ofSize:80)
 		
-		text463.textColor = UIColor(red: 1, green: 1, blue: 1,alpha:1) 
-		text463.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([text463.topAnchor.constraint(equalTo: self.view.topAnchor, constant:143),text463.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:129)])
+		text1414.numberOfLines = 0
+		text1414.textColor = UIColor(red: 0.09583333134651184, green: 0.06681659072637558, blue: 0.06628471612930298,alpha:1) 
+		text1414.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([text1414.topAnchor.constraint(equalTo: self.view.topAnchor, constant:72),text1414.widthAnchor.constraint(equalToConstant:239),text1414.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:77)])
+		text1455.text = " Design to app in minutes"
+		
+		text1455.font = UIFont.systemFont(ofSize:32)
+		
+		text1455.numberOfLines = 0
+		text1455.textColor = UIColor(red: 0, green: 0, blue: 0,alpha:1) 
+		text1455.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([text1455.topAnchor.constraint(equalTo: self.view.topAnchor, constant:502),text1455.widthAnchor.constraint(equalToConstant:321),text1455.leadingAnchor.constraint(equalTo: self.view.leadingAnchor, constant:47)])
 		}
-	@objc func NavToscreen2ViewController13526(){
-		var vc = screen2ViewController13526()
-		self.navigationController?.pushViewController(vc, animated:true)
-	}
-	@objc func NavToscreen3ViewController13532(){
-		var vc = screen3ViewController13532()
+	@objc func NavToscreen2ViewController14510(){
+		var vc = screen2ViewController14510()
 		self.navigationController?.pushViewController(vc, animated:true)
 	}
 	
